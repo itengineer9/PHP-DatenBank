@@ -1,0 +1,51 @@
+Vorgaben Datenbank
+===================================================
+
+Name Datenbank:
+buchladen
+
+Name Datentabelle:
+buecher
+
+Namen der Spalten:
+titel
+autor
+verlag
+preis
+genre
+isbn
+
+
+Beispiel Datensätze:
+--------------------------------
+
+Das Geschenk: Psychothriller
+Sebastian Fitzek
+Droemer HC
+22.99
+Krimi
+978-3426281543
+
+
+Selfies
+Jussi Adler-Olsen
+dtv
+23.00
+Krimi
+978-3423281072
+
+
+Die Brautprinzessin
+William Goldman
+Klett-Cotta
+12.00
+Fantasy
+978-3608961409
+
+
+Kurze Antworten auf große Fragen
+Stephen Hawking
+Klett-Cotta
+20.00
+Sachbuch
+978-3608963762
